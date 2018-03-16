@@ -1,0 +1,79 @@
+{
+	"test" : [{
+        "leg_id": "COL000067",
+        "first_name": "Crisanta",
+        "last_name": "Duran",
+        "middle_name": "",
+        "roles": [
+            {
+                "term": "2017-2018",
+                "end_date": null,
+                "district": "5",
+                "chamber": "lower",
+                "state": "co",
+                "party": "Democratic",
+                "type": "member",
+                "start_date": null
+            }
+        ],
+        "district": "5",
+        "url": "http://leg.colorado.gov/legislators/crisanta-duran",
+        "id": "COL000067",
+        "chamber": "lower",
+        "state": "co",
+        "offices": [
+            {
+                "fax": null,
+                "name": "Capitol Office",
+                "phone": "303-866-2925",
+                "address": "200 E. Colfax\nRM 307\nDenver, CO 80203",
+                "type": "capitol",
+                "email": "crisanta.duran.house@state.co.us"
+            }
+        ],
+        "full_name": "Crisanta Duran",
+        "active": true,
+        "party": "Democratic",
+        "old_roles": {
+            "2015-2016": [
+               
+                {
+                    "term": "2015-2016",
+                    "committee_id": "COC000122",
+                    "chamber": "joint",
+                    "state": "co",
+                    "subcommittee": null,
+                    "committee": "Legislative Council",
+                    "position": "member",
+                    "type": "committee member"
+                }
+            ],
+            "2013-2014": [
+                {
+                    "term": "2013-2014",
+                    "end_date": null,
+                    "district": "5",
+                    "chamber": "lower",
+                    "state": "co",
+                    "party": "Democratic",
+                    "type": "member",
+                    "start_date": null
+                }
+            ],
+            "2011-2012": [
+                {
+                    "term": "2011-2012",
+                    "end_date": null,
+                    "district": "5",
+                    "chamber": "lower",
+                    "state": "co",
+                    "party": "Democratic",
+                    "type": "member",
+                    "start_date": null
+                }
+            ]
+        },
+        "email": "crisanta.duran.house@state.co.us",
+        "suffixes": ""
+    }]
+}

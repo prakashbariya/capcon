@@ -1,0 +1,39 @@
+[
+    {
+        "committee_id": "COC000122",
+        "chamber": "joint",
+        "state": "co",
+        "committee": "Legislative Council"
+    },
+    {
+        "committee_id": "COC000147",
+        "chamber": "joint",
+        "state": "co",
+        "committee": "Executive Committee of the Legislative Council"
+    },
+     {
+        "committee_id": "COC000001",
+        "chamber": "joint",
+        "state": "co",
+        "committee": "Agriculture, Livestock & Natural Resources"
+    },
+
+
+
+
+    {
+        "committee_id": "COC000026",
+        "chamber": "upper",
+        "state": "co",
+        "committee": "Appropriations"
+    },
+    {
+        "committee_id": "COC000009",
+        "chamber": "lower",
+        "state": "co",
+        "committee": "Judiciary"
+    }
+]
+1 . lower
+2.  upper
+3.  joint 
