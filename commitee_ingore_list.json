@@ -11,29 +11,118 @@
         "state": "co",
         "committee": "Executive Committee of the Legislative Council"
     },
-     {
+    {
         "committee_id": "COC000001",
-        "chamber": "joint",
+        "chamber": "lower",
         "state": "co",
         "committee": "Agriculture, Livestock & Natural Resources"
     },
-
-
-
-
     {
-        "committee_id": "COC000026",
-        "chamber": "upper",
-        "state": "co",
-        "committee": "Appropriations"
-    },
-    {
-        "committee_id": "COC000009",
+        "committee_id": "COC000097",
         "chamber": "lower",
         "state": "co",
-        "committee": "Judiciary"
+        "committee": "House Agriculture, Livestock and Natural Resources"
+    },
+    {
+        "committee_id": "COC000022",
+        "chamber": "lower",
+        "state": "co",
+        "committee": "State, Veterans, & Military Affairs"
+    },
+     {
+        "committee_id": "COC000015",
+        "chamber": "lower",
+        "state": "co",
+        "committee": "Legislative Council"
+    },
+     {
+        "committee_id": "COC000141",
+        "chamber": "upper",
+        "state": "co",
+        "committee": "Agriculture, Natural Resources, and Energy"
+    },
+     {
+        "committee_id": "COC000132",
+        "chamber": "upper",
+        "state": "co",
+        "committee": "Business, Labor and Technology"
+    },
+     {
+        "committee_id": "COC000125",
+        "chamber": "upper",
+        "state": "co",
+        "committee": "Health and Human Services"
+    },
+     {
+        "committee_id": "COC000199",
+        "chamber": "upper",
+        "state": "co",
+        "committee": "Colorado Commission on Uniform State Laws"
+    },
+    {
+        "committee_id": "COC000212",
+        "chamber": "upper",
+        "state": "co",
+        "committee": "Police Officers' and Firefighters' Pension Reform Commission"
+    },
+     {
+        "committee_id": "COC000203",
+        "chamber": "upper",
+        "state": "co",
+        "committee": "School Safety and Youth in Crisis Committee"
+    },
+     {
+        "committee_id": "COC000200",
+        "chamber": "upper",
+        "state": "co",
+        "committee": "Select Committee on Energy and the Environment"
+    },
+     {
+        "committee_id": "COC000109",
+        "chamber": "upper",
+        "state": "co",
+        "committee": "Senate Business, Labor and Technology"
+    },
+     {
+        "committee_id": "COC000112",
+        "chamber": "upper",
+        "state": "co",
+        "committee": "Senate Health and Human Services"
+    },
+     {
+        "committee_id": "COC000214",
+        "chamber": "upper",
+        "state": "co",
+        "committee": "Statutory Revision Committee"
+    },
+     {
+        "committee_id": "COC000206",
+        "chamber": "upper",
+        "state": "co",
+        "committee": "Transportation Legislation Review Committee"
+    },
+     {
+        "committee_id": "COC000208",
+        "chamber": "upper",
+        "state": "co",
+        "committee": "Treatment of Persons with Mental Health Disorders in the Criminal Justice System"
+    },
+      {
+        "committee_id": "COC000213",
+        "chamber": "upper",
+        "state": "co",
+        "committee": "Water Resources Review Committee"
+    },
+     {
+        "committee_id": "COC000220",
+        "chamber": "upper",
+        "state": "co",
+        "committee": "Wildfire Matters Review Committee"
+    },
+     {
+        "committee_id": "COC000220",
+        "chamber": "upper",
+        "state": "co",
+        "committee": "Wildfire Matters Review Committee"
     }
 ]
-1 . lower
-2.  upper
-3.  joint 
